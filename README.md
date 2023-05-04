@@ -23,10 +23,6 @@ This project has been set up with no database. It uses the [Strapi back-office](
 
 Run `rails s` to start the server. Then go to `localhost:3000` to see the website.
 
-## 🚀 Run the project
-
-Run `rails s` to start the server. Then go to `localhost:3000` to see the website.
-
 Please note that in order to manage the content of the website, you will need to use the [Strapi back-office](https://github.com/JulesPR1/dynamic-modular-website-bo). You can find the code for the back-office on [GitHub](https://github.com/JulesPR1/dynamic-modular-website-bo).
 
 This front-end application is designed to work in conjunction with the [Strapi back-office](https://github.com/JulesPR1/dynamic-modular-website-bo). The back-office allows you to create and manage the content of the website.
