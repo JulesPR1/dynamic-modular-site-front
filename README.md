@@ -1,4 +1,5 @@
 # Dynamic modular website front with Ruby on Rails
+## Work in progress
 
 This is a website front that is modular and dynamic. It is a light Ruby on Rails application and uses a [Strapi back-office](https://github.com/JulesPR1/dynamic-modular-website-bo) to manage the content.
 
