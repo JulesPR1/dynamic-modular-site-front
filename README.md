@@ -7,7 +7,7 @@ Things you may want to cover:
 
 ## 📚 Versions
 
-- Ruby 3.0.1
+- Ruby 2.7.x
 - Rails 7.0.4.3
 
 ## 💎 Addtionnal gems
